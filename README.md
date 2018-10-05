@@ -6,7 +6,7 @@ The reading materials for Python basics can be found in `/Python-Tutorials/noteb
 
 ### Getting started with learning materials
 
-You can use **[Google Collab](https://colab.research.google.com/)** to read and playaround with the notebooks. To Open a notebook in this GitHub Repository in Google Collab:
+You can use **[Google Collab](https://colab.research.google.com/)** (a simple one click solution from Google) to read and playaround with the learning materials/notebooks. We recommend you to use this setup, to avoid any version or installation problems. To Open a notebook in this GitHub Repository in Google Collab:
 
 * Open **[Google Collab](https://colab.research.google.com/)** and choose **`GITHUB`** tab
 * Copy the GitHub link to the notebook that you want to open (For instance: https://github.com/screel-labs/ml-lite/blob/master/Python-Tutorials/notebooks/Python_Basics_and_Strings.ipynb)
